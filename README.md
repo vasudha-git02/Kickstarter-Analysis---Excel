@@ -11,12 +11,12 @@ This analysis is done to determine how different campaigns did in relation to th
 
 ### Analysis of Outcomes Based on Launch Date
 When we look at the line chart of outcomes based on the launch month we can find that the number of campaigns are high dduring mid year and also most campaigns are successful during the mid - year especially during May the number of successful campaigns are very high. Also as the year comes to an end so as the number of successful campaigns  reduced. In the number of failed campaigns there isn't vast difference in the number during the year but there is slight increase in the failed campaigns during mid year . Cancelled campigns are very less and almost the same through out the year. 
-![this is an image](C:\Users\vasud\OneDrive\Desktop\Classwork\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png)
-
+<img width="285" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/104597335/167745737-979fbeda-fca2-4242-b239-423e8585fdf1.png">
 
 ### Analysis of Outcomes Based on Goals
 The line chart of outcomes based on goals tells us that campaigns are successful when the goal range is less than 1000 and percentage successful campaigns reduced as the goal amount increased. But there is an increase in the successful campaigns during 35000 to 40000 goal range. When we look at the graph we also find that the percentage of failed campaigns increased from the goal amount of 40000 and peak failed campaigns occured when the goal is greater than 45000.
-![this is an image](C:\Users\vasud\OneDrive\Desktop\Classwork\Crowdfunding Analysis\Resources\Outcomes_vs_Goals)
+
+<img width="455" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/104597335/167745907-4bc3b23f-6b17-43c6-91ca-a90ed98757fc.png">
 
 ### Challenges and Difficulties Encountered
 The challenge I faced is with the data in the goal amount column. During practise few of the rows data was jumbled and so the calculation and graph wasnt correct. I then took a fresh copy and compared and corrected the data. I even used some of the things I learnt here in correcting this data.
