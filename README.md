@@ -11,6 +11,7 @@ This analysis is done to determine how different campaigns did in relation to th
 
 ### Analysis of Outcomes Based on Launch Date
 When we look at the line chart of outcomes based on the launch month we can find that the number of campaigns are high dduring mid year and also most campaigns are successful during the mid - year especially during May the number of successful campaigns are very high. Also as the year comes to an end so as the number of successful campaigns  reduced. In the number of failed campaigns there isn't vast difference in the number during the year but there is slight increase in the failed campaigns during mid year . Cancelled campigns are very less and almost the same through out the year. 
+
 <img width="455" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/104597335/167745737-979fbeda-fca2-4242-b239-423e8585fdf1.png">
 
 ### Analysis of Outcomes Based on Goals
